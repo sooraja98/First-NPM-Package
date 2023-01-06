@@ -1,0 +1,22 @@
+{
+  "name": "@sooraj0098/wdscheck",
+  "version": "1.0.0",
+  "description": "it is used to check the string is wds or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sooraja98/First-NPM-Package.git"
+  },
+  "keywords": [
+    "wds"
+  ],
+  "author": "sooraj98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sooraja98/First-NPM-Package/issues"
+  },
+  "homepage": "https://github.com/sooraja98/First-NPM-Package#readme"
+}
